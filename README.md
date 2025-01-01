@@ -1,2 +1,2 @@
 # CISTAR 2021
- MILP Formulation
+ MILP Formulation for a Summer Project
